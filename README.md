@@ -8,8 +8,7 @@ To run the program, navigate to the project directory in a terminal and run:
 - ./candycrush
 
 ## Class Diagram
- [](Class_Diagram.png)
-
+ ![](Class_Diagram.png)
 ## Gameplay
 - The player matches three or more candies of the same color to score points and progress through levels.
 - The player can swap adjacent candies to make matches.
